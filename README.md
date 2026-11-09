@@ -60,17 +60,17 @@ LUNA 是自主制作的虚构品牌演示，不是付费客户案例。AIGC 与 
 2. 修改 CSS / JS 时，同步两份 HTML。保持 WhatsApp 与演示链接正确。不要把离线版覆盖线上英文页，否则会丢失托管版的语言 URL 行为。
 3. 新图片压成合适尺寸的 WebP；替换资源时使用新文件名并更新两页引用，避免一年缓存继续显示旧图。保留字体为系统字体。
 4. 先在新 Preview Deployment 测试手机、平板、桌面、双语、菜单、FAQ、动画及音乐，再发布到本项目 Production。
-5. GitHub 连接完成后，提交到连接的生产分支可触发 Vercel 自动部署。当前源码仓库已建立，Vercel Git 连接仍待完成；当前公开站点由直接静态文件部署。
+5. GitHub 连接完成后，提交到连接的生产分支可触发 Vercel 自动部署。当前源码仓库与现有 Vercel 项目已连接；此文档提交用于验证 GitHub 推送触发部署。部署结果以 Vercel READY 记录为准。
 6. 需要手动部署时，只选择本项目 `creative-web-studio-portfolio`，Framework 选 Other，关闭 build/install，发布根目录；不要选择 LUNA。当前页面不需要环境变量。
 7. 新增页面或改域名时，同时更新 canonical、hreflang、OG URL、JSON-LD、robots 和 sitemap。
 
-## GitHub 源码与待完成连接
+## GitHub 源码与部署连接
 
 源码仓库：https://github.com/Yeoh4054/creative-web-studio-portfolio
 
 生产分支：`main`。已创建仓库并将经过 QA 的静态网站源码提交至该分支。原始初始提交保留在历史中；未触碰 LUNA 仓库。
 
-Vercel 自动部署连接尚未完成。请打开 Vercel 现有项目 `creative-web-studio-portfolio` → Settings → Git → Connect Git Repository，选择 GitHub 账号 Yeoh4054 下的同名仓库。不要另建/导入第二个 Vercel 项目，也不要选择 LUNA。保持根目录为仓库根目录、Framework 为 Other、无需 build/install。连接后需检查 `main` 为 Production Branch，并验证一次来自 GitHub 的部署成功，才可确认自动部署已完成。
+已通过 Vercel 账户连接记录确认：现有项目 `creative-web-studio-portfolio` 连接到 `Yeoh4054/creative-web-studio-portfolio`。本次 README 更新用于验证 main 推送是否实际触发生产部署；在部署 READY 并复核公开页面前，不把自动部署标为验证完成。网站源文件没有变更。
 
 不要在聊天中发送密码、OTP 或 token。
 
