@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "route": "/",
+      "oneH1": true,
+      "sections": 8,
+      "uniqueIds": true,
+      "anchorsValid": true,
+      "canonical": true,
+      "hreflang": 3,
+      "whatsappValid": true,
+      "noForm": true,
+      "noExternalLibraries": true,
+      "structuredDataParsable": true,
+      "reducedMotionRules": true
+    },
+    {
+      "route": "/zh/",
+      "oneH1": true,
+      "sections": 8,
+      "uniqueIds": true,
+      "anchorsValid": true,
+      "canonical": true,
+      "hreflang": 3,
+      "whatsappValid": true,
+      "noForm": true,
+      "noExternalLibraries": true,
+      "structuredDataParsable": true,
+      "reducedMotionRules": true
+    }
+  ],
+  "standaloneSelfContained": true
+}

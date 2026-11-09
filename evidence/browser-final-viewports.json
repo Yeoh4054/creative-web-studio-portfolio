@@ -1,0 +1,135 @@
+[
+  {
+    "audioHost": "hero-bottom",
+    "clientWidth": 360,
+    "height": 812,
+    "heroCTAVisible": true,
+    "language": "en",
+    "overflow": false,
+    "scrollWidth": 360,
+    "width": 375
+  },
+  {
+    "audioHost": "hero-bottom",
+    "clientWidth": 375,
+    "height": 844,
+    "heroCTAVisible": true,
+    "language": "en",
+    "overflow": false,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "audioHost": "hero-bottom",
+    "clientWidth": 415,
+    "height": 932,
+    "heroCTAVisible": true,
+    "language": "en",
+    "overflow": false,
+    "scrollWidth": 415,
+    "width": 430
+  },
+  {
+    "audioHost": "hero-bottom",
+    "clientWidth": 753,
+    "height": 1024,
+    "heroCTAVisible": true,
+    "language": "en",
+    "overflow": false,
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "audioHost": "hero-bottom",
+    "clientWidth": 1009,
+    "height": 1366,
+    "heroCTAVisible": true,
+    "language": "en",
+    "overflow": false,
+    "scrollWidth": 1009,
+    "width": 1024
+  },
+  {
+    "audioHost": "",
+    "clientWidth": 1265,
+    "height": 800,
+    "heroCTAVisible": true,
+    "language": "en",
+    "overflow": false,
+    "scrollWidth": 1265,
+    "width": 1280
+  },
+  {
+    "audioHost": "",
+    "clientWidth": 1425,
+    "height": 900,
+    "heroCTAVisible": true,
+    "language": "en",
+    "overflow": false,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "clientWidth": 360,
+    "height": 812,
+    "heroCTAVisible": true,
+    "language": "zh-Hans",
+    "overflow": false,
+    "scrollWidth": 360,
+    "width": 375
+  },
+  {
+    "clientWidth": 375,
+    "height": 844,
+    "heroCTAVisible": true,
+    "language": "zh-Hans",
+    "overflow": false,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "clientWidth": 415,
+    "height": 932,
+    "heroCTAVisible": true,
+    "language": "zh-Hans",
+    "overflow": false,
+    "scrollWidth": 415,
+    "width": 430
+  },
+  {
+    "clientWidth": 753,
+    "height": 1024,
+    "heroCTAVisible": true,
+    "language": "zh-Hans",
+    "overflow": false,
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "clientWidth": 1009,
+    "height": 1366,
+    "heroCTAVisible": true,
+    "language": "zh-Hans",
+    "overflow": false,
+    "scrollWidth": 1009,
+    "width": 1024
+  },
+  {
+    "clientWidth": 1265,
+    "height": 800,
+    "heroCTAVisible": true,
+    "language": "zh-Hans",
+    "overflow": false,
+    "scrollWidth": 1265,
+    "width": 1280
+  },
+  {
+    "clientWidth": 1425,
+    "height": 900,
+    "heroCTAVisible": true,
+    "language": "zh-Hans",
+    "overflow": false,
+    "scrollWidth": 1425,
+    "width": 1440
+  }
+]

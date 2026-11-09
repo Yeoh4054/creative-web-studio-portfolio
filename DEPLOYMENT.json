@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-09",
+  "productionUrl": "https://creative-web-studio-portfolio.vercel.app/",
+  "project": "creative-web-studio-portfolio",
+  "deploymentId": "dpl_HjVcoDNWY2CH9dRmm4pDDcKPLnAX",
+  "state": "READY",
+  "githubRepository": "https://github.com/Yeoh4054/creative-web-studio-portfolio",
+  "searchConsoleVerified": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "2abb5dabf48123f43c8e7d05c49d9645679857b27eb3f1885fcf86aa63a8ea1e"
+    },
+    {
+      "path": "QA-REPORT.md",
+      "sha256": "1541e9e89cb2df517f65f30809b4f9c81f084d451a9edb2edf6af7ae94df6ce4"
+    },
+    {
+      "path": "README.md",
+      "sha256": "1cd924be1661b28a363ef0ede57be86d2c581487d766c3d55550052450e540fe"
+    },
+    {
+      "path": "assets/brand-fd5cee3e244e.svg",
+      "sha256": "fd5cee3e244e2d63ee56c7e93d6e8afdcb89650115dd65c1e1e81a1ef282b242"
+    },
+    {
+      "path": "assets/luna-home-bddf4c6645ba.webp",
+      "sha256": "bddf4c6645ba77e5ba198ecba1a64246a389e1fedabf7d10e4f469e6ced41ffa"
+    },
+    {
+      "path": "assets/reverie-c84e00a1a24b.mp3",
+      "sha256": "c84e00a1a24b19cd53cfaa4196701a53e2b4f54b9ddb22f6ddc7f1a118bf8602"
+    },
+    {
+      "path": "assets/share-86099243911d.png",
+      "sha256": "86099243911da36924a29d56aef5589bffa2ab91f26c0b9c1cc258d7cd7f757a"
+    },
+    {
+      "path": "evidence/browser-continuous-resize.json",
+      "sha256": "4b940b647a573f158f666cf2d518f2a5d27975a0f49ffeaff54ab6687872fe23"
+    },
+    {
+      "path": "evidence/browser-final-viewports.json",
+      "sha256": "69a96a7e7a7687eaaf6ae2639878b3f553d0ede57f2bf4dd99f67d9c14df09f9"
+    },
+    {
+      "path": "evidence/browser-interactions-and-layout.json",
+      "sha256": "3f6da8ec3ed870fe1b66a1e167679fbb492ba514db42fe2650b40942a10a1737"
+    },
+    {
+      "path": "evidence/live-verification.json",
+      "sha256": "e74f8a0d37d91b4c49469c1bfa2d01f99f48e29999b5eadf3476f5e3102371b6"
+    },
+    {
+      "path": "evidence/pagespeed-desktop-final.json",
+      "sha256": "3ef0c6e8a2ca3ea5ad8560b76794204cbf7b8e9ee3e1ff92529df54cb95470e9"
+    },
+    {
+      "path": "evidence/pagespeed-mobile-final.json",
+      "sha256": "d70ff4a73b1981f93186991984e5f11c64ebd1a969ad00cb995c872da8516238"
+    },
+    {
+      "path": "evidence/source-audit.json",
+      "sha256": "21994916ff65fe0d2d780bbdc3aac6a08cedfa8d5ea02fbb3b324a9e0274728f"
+    },
+    {
+      "path": "index.html",
+      "sha256": "297955bec8d5489e59d6de194325f881f3087248a6c04fa76d53643e963052d8"
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "0485589a816e1001b65319e8a9647cca6754a5da8804d27aae2b1afdd43ea3ef"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "bdc294507134c191cc910550cc1f744ff1e5c60a8af4759c7ae7aaa536a4ce17"
+    },
+    {
+      "path": "vercel.json",
+      "sha256": "e2f83681f0f05b5648806d1aa92c82d16b49370d53ec35ffd167db3f1b7b4010"
+    },
+    {
+      "path": "zh/index.html",
+      "sha256": "6ef061d95cc85212710919f35347c3fabbc38c30705af2c44cfa1469cfe01523"
+    }
+  ],
+  "gitBranch": "main",
+  "gitAutoDeployVerified": false
+}
